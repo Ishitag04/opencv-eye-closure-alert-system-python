@@ -36,7 +36,7 @@ Your webcam will open and start detecting eyes in real time.
 
 ## 📸 Demo
 
-https://drive.google.com/file/d/1hLQb-LFhN2st_cKCsVukXZ80KU5PBtp1/view?usp=sharing
+https://www.linkedin.com/posts/ishita-garg-7a1475327_opencv-python-computervision-activity-7404119886706454528-ScZo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJ4_SkB1GFcDQYZ9e0my3H24gV1ZkZTqH8
 
 ---
 
@@ -61,3 +61,4 @@ Feel free to fork this repository and enhance it!
 **Ishita Garg**  
 
 Python | OpenCV | AI Enthusiast  
+
